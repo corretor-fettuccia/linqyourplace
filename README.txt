@@ -1,7 +1,7 @@
 LANDING PAGE COMPILADA — IMOBIFY STUDIO 6.0.84
 
 Projeto: LINQ Your Place | Minha Casa Minha Vida | Simule e compare
-Gerado em: 23/10/2026, 10:49:36
+Gerado em: 23/10/2026, 12:31:45
 
 PUBLICAÇÃO
 Envie todo o conteúdo desta pasta para a raiz do seu serviço de hospedagem, GitHub Pages, Netlify, Vercel ou servidor web. A página é estática e não exige banco de dados.
@@ -19,5 +19,8 @@ MÍDIA INCLUÍDA
 assets/images/tour360-scene-1-panorama-1.webp
 assets/images/tour360-scene-2-panorama-2.webp
 assets/images/tour360-scene-3-panorama-3.webp
-assets/images/smart-plant-plant-1-image-5.webp
-assets/images/benefits-showcase-backgroundimage-7.webp
+assets/images/tour360-scene-4-panorama-4.png
+assets/images/tour360-scene-5-panorama-5.webp
+assets/images/tour360-scene-6-panorama-6.webp
+assets/images/smart-plant-plant-1-image-7.webp
+assets/images/benefits-showcase-backgroundimage-9.webp
