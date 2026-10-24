@@ -50,6 +50,16 @@
     "packageType": "core"
   },
   {
+    "id": "button-single",
+    "name": "Botão",
+    "type": "section",
+    "compositionRole": "both",
+    "compositionCardinality": "single",
+    "version": "1.0.0",
+    "source": "plugins/button-single/plugin.json",
+    "packageType": "bundled"
+  },
+  {
     "id": "gallery-big-four",
     "name": "Galeria Big Four",
     "type": "section",

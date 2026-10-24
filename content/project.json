@@ -48,17 +48,17 @@
     "subtitleShadowStyle": "contrast",
     "subtitleShadowColor": "#000000",
     "subtitleShadowStrength": 52,
-    "actionButtonKit": "custom",
-    "actionButtonEffect": "embossed",
-    "actionButtonClickEffect": "spin",
-    "actionButtonDepth": 3,
-    "actionButtonGlow": 24,
+    "actionButtonKit": "holographic",
+    "actionButtonEffect": "holographic",
+    "actionButtonClickEffect": "flash",
+    "actionButtonDepth": 0,
+    "actionButtonGlow": 32,
     "actionButtonGlassOpacity": 28,
     "actionButtonGlassBlur": 14,
-    "actionButtonShine": 46,
+    "actionButtonShine": 42,
     "actionButtonBorderWidth": 1,
-    "actionButtonHoverScale": 105,
-    "actionButtonSpeed": 240,
+    "actionButtonHoverScale": 103,
+    "actionButtonSpeed": 320,
     "name": "Família Verde",
     "description": "Acolhimento, segurança e sensação de estabilidade.",
     "primary": "#b26e4b",
@@ -190,7 +190,7 @@
       "id": "hero360-tour-1792586326792-cbk90",
       "type": "hero360-tour",
       "props": {
-        "tourConfig": "{\"format\":\"ImobStudioTour360\",\"version\":7,\"project\":{\"id\":\"tour360-section\",\"name\":\"LinQ\",\"createdAt\":\"\",\"updatedAt\":\"2026-10-23T15:31:13.540Z\"},\"settings\":{\"firstSceneId\":\"sala\",\"preloadAdjacent\":false,\"showCompass\":false,\"showZoomControls\":true,\"showFullscreenControl\":true,\"autoLoad\":true,\"defaultHfov\":100,\"minHfov\":50,\"maxHfov\":120,\"authoringGrid\":false},\"branding\":{\"enabled\":false,\"banner\":\"\",\"bannerName\":\"\",\"position\":\"bottom-right\",\"floatingEnabled\":false,\"floatingText\":\"\",\"floatingLink\":\"\"},\"sceneOrder\":[\"dormitorio-2\",\"banheiro\",\"sala\",\"sacada\",\"casal\",\"corredor\"],\"scenes\":{\"dormitorio-2\":{\"id\":\"dormitorio-2\",\"title\":\"Dormitório 2\",\"panorama\":\"assets/images/tour360-scene-1-panorama-1.webp\",\"initialView\":{\"yaw\":-93.1,\"pitch\":-5.2,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_baf045e5-15f4-4a69-8d08-7e0c4b675aee\",\"type\":\"navigation\",\"yaw\":178.3,\"pitch\":-27.9,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Corredor\",\"targetSceneId\":\"corredor\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]},\"banheiro\":{\"id\":\"banheiro\",\"title\":\"Banheiro\",\"panorama\":\"assets/images/tour360-scene-2-panorama-2.webp\",\"initialView\":{\"yaw\":110.2,\"pitch\":-7.7,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_b8138596-a026-414f-9ff2-a5a0494f1c3e\",\"type\":\"navigation\",\"yaw\":84,\"pitch\":-9.5,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Sala\",\"targetSceneId\":\"sala\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]},\"sala\":{\"id\":\"sala\",\"title\":\"Sala\",\"panorama\":\"assets/images/tour360-scene-3-panorama-3.webp\",\"initialView\":{\"yaw\":-34.4,\"pitch\":3.1,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_dfa66272-f932-4849-ad55-c2396f0cbe66\",\"type\":\"navigation\",\"yaw\":-78,\"pitch\":-17.2,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Sacada\",\"targetSceneId\":\"sacada\",\"targetView\":null,\"url\":\"\",\"info\":\"\"},{\"id\":\"hotspot_449da645-78c2-4d40-bd5c-cdab6e73639c\",\"type\":\"info\",\"yaw\":127.7,\"pitch\":0.2,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Churrasqueira\",\"targetSceneId\":null,\"targetView\":null,\"url\":\"\",\"info\":\"\"},{\"id\":\"hotspot_5974fce1-87bb-4ef8-a9b9-b3d0ab1cafdc\",\"type\":\"navigation\",\"yaw\":1.4,\"pitch\":-21.8,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Corredor\",\"targetSceneId\":\"corredor\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]},\"sacada\":{\"id\":\"sacada\",\"title\":\"Sacada\",\"panorama\":\"assets/images/tour360-scene-4-panorama-4.png\",\"initialView\":{\"yaw\":-19.9,\"pitch\":-10.6,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_b016313d-50a4-49ea-8a8d-99b8b925c119\",\"type\":\"navigation\",\"yaw\":-60.5,\"pitch\":-13.3,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Sala\",\"targetSceneId\":\"sala\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]},\"casal\":{\"id\":\"casal\",\"title\":\"Casal\",\"panorama\":\"assets/images/tour360-scene-5-panorama-5.webp\",\"initialView\":{\"yaw\":137.9,\"pitch\":-11.6,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_5fcec45a-e8ff-4b78-82f8-bb9b88ef10a8\",\"type\":\"navigation\",\"yaw\":83.2,\"pitch\":-22.8,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Corredor\",\"targetSceneId\":\"corredor\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]},\"corredor\":{\"id\":\"corredor\",\"title\":\"Corredor\",\"panorama\":\"assets/images/tour360-scene-6-panorama-6.webp\",\"initialView\":{\"yaw\":167.6,\"pitch\":-2,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_2bbbf7d1-f70e-493f-87e2-f6b0cacf66c0\",\"type\":\"navigation\",\"yaw\":98.6,\"pitch\":-20.6,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Dormitório Casal\",\"targetSceneId\":\"casal\",\"targetView\":null,\"url\":\"\",\"info\":\"\"},{\"id\":\"hotspot_252550e6-ec27-4ab1-8d86-6e223e93aae9\",\"type\":\"navigation\",\"yaw\":-1,\"pitch\":-15.2,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Sala\",\"targetSceneId\":\"sala\",\"targetView\":null,\"url\":\"\",\"info\":\"\"},{\"id\":\"hotspot_9947ee17-8c9d-4d93-89ae-30cb2a213a99\",\"type\":\"navigation\",\"yaw\":-101.6,\"pitch\":-20.6,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Dormitório 2\",\"targetSceneId\":\"dormitorio-2\",\"targetView\":null,\"url\":\"\",\"info\":\"\"},{\"id\":\"hotspot_e755d2b0-1556-4fb4-993b-5e5fc99f2365\",\"type\":\"navigation\",\"yaw\":-179.6,\"pitch\":-19.6,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Banheiro\",\"targetSceneId\":\"banheiro\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]}}}",
+        "tourConfig": "{\"format\":\"ImobStudioTour360\",\"version\":7,\"project\":{\"id\":\"tour360-section\",\"name\":\"LinQ\",\"createdAt\":\"\",\"updatedAt\":\"2026-10-24T01:52:42.482Z\"},\"settings\":{\"firstSceneId\":\"sala\",\"preloadAdjacent\":false,\"showCompass\":false,\"showZoomControls\":true,\"showFullscreenControl\":true,\"autoLoad\":true,\"defaultHfov\":100,\"minHfov\":50,\"maxHfov\":120,\"authoringGrid\":false},\"branding\":{\"enabled\":false,\"banner\":\"\",\"bannerName\":\"\",\"position\":\"bottom-right\",\"floatingEnabled\":false,\"floatingText\":\"\",\"floatingLink\":\"\"},\"sceneOrder\":[\"dormitorio-2\",\"banheiro\",\"sala\",\"sacada\",\"casal\",\"corredor\"],\"scenes\":{\"dormitorio-2\":{\"id\":\"dormitorio-2\",\"title\":\"Dormitório 2\",\"panorama\":\"assets/images/tour360-scene-1-panorama-1.webp\",\"initialView\":{\"yaw\":-93.1,\"pitch\":-5.2,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_6c4cdc8f-31cb-48bc-8f23-c730b857e258\",\"type\":\"navigation\",\"yaw\":-175.4,\"pitch\":-13.1,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Casal\",\"targetSceneId\":null,\"targetView\":null,\"url\":\"\",\"info\":\"\"},{\"id\":\"hotspot_baf045e5-15f4-4a69-8d08-7e0c4b675aee\",\"type\":\"navigation\",\"yaw\":178.3,\"pitch\":-27.9,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Corredor\",\"targetSceneId\":\"corredor\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]},\"banheiro\":{\"id\":\"banheiro\",\"title\":\"Banheiro\",\"panorama\":\"assets/images/tour360-scene-2-panorama-2.webp\",\"initialView\":{\"yaw\":110.2,\"pitch\":-7.7,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_b8138596-a026-414f-9ff2-a5a0494f1c3e\",\"type\":\"navigation\",\"yaw\":84,\"pitch\":-9.5,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Sala\",\"targetSceneId\":\"sala\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]},\"sala\":{\"id\":\"sala\",\"title\":\"Sala\",\"panorama\":\"assets/images/tour360-scene-3-panorama-3.webp\",\"initialView\":{\"yaw\":-34.4,\"pitch\":3.1,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_dfa66272-f932-4849-ad55-c2396f0cbe66\",\"type\":\"navigation\",\"yaw\":-78,\"pitch\":-17.2,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Sacada\",\"targetSceneId\":\"sacada\",\"targetView\":null,\"url\":\"\",\"info\":\"\"},{\"id\":\"hotspot_449da645-78c2-4d40-bd5c-cdab6e73639c\",\"type\":\"info\",\"yaw\":127.7,\"pitch\":0.2,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Churrasqueira\",\"targetSceneId\":null,\"targetView\":null,\"url\":\"\",\"info\":\"\"},{\"id\":\"hotspot_5974fce1-87bb-4ef8-a9b9-b3d0ab1cafdc\",\"type\":\"navigation\",\"yaw\":1.4,\"pitch\":-21.8,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Corredor\",\"targetSceneId\":\"corredor\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]},\"sacada\":{\"id\":\"sacada\",\"title\":\"Sacada\",\"panorama\":\"assets/images/tour360-scene-4-panorama-4.webp\",\"initialView\":{\"yaw\":-18.6,\"pitch\":-2.3,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_b016313d-50a4-49ea-8a8d-99b8b925c119\",\"type\":\"navigation\",\"yaw\":-60.5,\"pitch\":-13.3,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Sala\",\"targetSceneId\":\"sala\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]},\"casal\":{\"id\":\"casal\",\"title\":\"Casal\",\"panorama\":\"assets/images/tour360-scene-5-panorama-5.webp\",\"initialView\":{\"yaw\":137.9,\"pitch\":-11.6,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_5fcec45a-e8ff-4b78-82f8-bb9b88ef10a8\",\"type\":\"navigation\",\"yaw\":83.2,\"pitch\":-22.8,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Corredor\",\"targetSceneId\":\"corredor\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]},\"corredor\":{\"id\":\"corredor\",\"title\":\"Corredor\",\"panorama\":\"assets/images/tour360-scene-6-panorama-6.webp\",\"initialView\":{\"yaw\":167.6,\"pitch\":-2,\"hfov\":120},\"hotspots\":[{\"id\":\"hotspot_2bbbf7d1-f70e-493f-87e2-f6b0cacf66c0\",\"type\":\"navigation\",\"yaw\":98.6,\"pitch\":-20.6,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Dormitório Casal\",\"targetSceneId\":\"casal\",\"targetView\":null,\"url\":\"\",\"info\":\"\"},{\"id\":\"hotspot_252550e6-ec27-4ab1-8d86-6e223e93aae9\",\"type\":\"navigation\",\"yaw\":-1,\"pitch\":-15.2,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Sala\",\"targetSceneId\":\"sala\",\"targetView\":null,\"url\":\"\",\"info\":\"\"},{\"id\":\"hotspot_9947ee17-8c9d-4d93-89ae-30cb2a213a99\",\"type\":\"navigation\",\"yaw\":-101.6,\"pitch\":-20.6,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Dormitório 2\",\"targetSceneId\":\"dormitorio-2\",\"targetView\":null,\"url\":\"\",\"info\":\"\"},{\"id\":\"hotspot_e755d2b0-1556-4fb4-993b-5e5fc99f2365\",\"type\":\"navigation\",\"yaw\":-179.6,\"pitch\":-19.6,\"rotation\":0,\"perspective\":true,\"perspectiveStrength\":1,\"scale\":1,\"text\":\"Banheiro\",\"targetSceneId\":\"banheiro\",\"targetView\":null,\"url\":\"\",\"info\":\"\"}]}}}",
         "eyebrow": "LINQ Canoas | 2 DORMITÓRIOS | Elevador",
         "headline": "Um imóvel desse padrão com preço de Minha Casa Minha Vida?",
         "subheadline": "Apartamentos de 2 dormitórios, sacada com churrasqueira e uma estrutura completa de lazer. Mais conforto, qualidade de vida e condições de financiamento que podem surpreender você.",
@@ -336,6 +336,19 @@
               "intensity": "soft"
             }
           }
+        },
+        "motion": {
+          "duration": 100,
+          "delay": 0,
+          "distance": 46,
+          "blur": 5,
+          "scale": 0.92,
+          "threshold": 0.2,
+          "easing": "cubic-bezier(.22,1,.36,1)",
+          "direction": "bottom",
+          "originX": 50,
+          "originY": 50,
+          "replay": false
         }
       }
     },
@@ -362,8 +375,8 @@
         "cssClass": "",
         "anchorId": "destaques",
         "style": {
-          "enabled": false,
-          "panelOpen": false,
+          "enabled": true,
+          "panelOpen": true,
           "backgroundMode": "inherit",
           "backgroundColor": "#ffffff",
           "backgroundColor2": "#101318",
@@ -399,9 +412,9 @@
           "bodyEffect": "inherit",
           "bodyEffectColor": "#000000",
           "bodyEffectStrength": 36,
-          "paddingMode": "inherit",
-          "paddingTop": 96,
-          "paddingBottom": 96
+          "paddingMode": "custom",
+          "paddingTop": 40,
+          "paddingBottom": 40
         },
         "elementMotion": {
           "baseDelayMs": 160,
@@ -477,7 +490,7 @@
         "sectionSubtitle": "Conheça as opções e encontre a planta que combina com você.",
         "empreendimento": "LinQ Your Place",
         "cardButtonText": "Ver planta completa",
-        "actionMode": "whatsapp",
+        "actionMode": "form",
         "actionLabelWhats": "",
         "actionLabelForm": "",
         "whatsNumber": "5551998111078",
@@ -509,8 +522,8 @@
         "cssClass": "",
         "anchorId": "",
         "style": {
-          "enabled": false,
-          "panelOpen": false,
+          "enabled": true,
+          "panelOpen": true,
           "backgroundMode": "inherit",
           "backgroundColor": "#ffffff",
           "backgroundColor2": "#101318",
@@ -546,9 +559,9 @@
           "bodyEffect": "inherit",
           "bodyEffectColor": "#000000",
           "bodyEffectStrength": 36,
-          "paddingMode": "inherit",
-          "paddingTop": 96,
-          "paddingBottom": 96
+          "paddingMode": "custom",
+          "paddingTop": 40,
+          "paddingBottom": 40
         },
         "elementMotion": {
           "baseDelayMs": 125,
@@ -648,6 +661,19 @@
               "intensity": "soft"
             }
           }
+        },
+        "motion": {
+          "duration": 200,
+          "delay": 0,
+          "distance": 46,
+          "blur": 5,
+          "scale": 1.025,
+          "threshold": 0.2,
+          "easing": "cubic-bezier(.22,1,.36,1)",
+          "direction": "bottom",
+          "originX": 50,
+          "originY": 50,
+          "replay": false
         }
       }
     },
@@ -731,6 +757,19 @@
           "paddingMode": "inherit",
           "paddingTop": 96,
           "paddingBottom": 96
+        },
+        "motion": {
+          "duration": 200,
+          "delay": 0,
+          "distance": 46,
+          "blur": 5,
+          "scale": 1.025,
+          "threshold": 0.2,
+          "easing": "cubic-bezier(.22,1,.36,1)",
+          "direction": "bottom",
+          "originX": 50,
+          "originY": 50,
+          "replay": false
         }
       }
     },
@@ -753,8 +792,8 @@
         "cssClass": "",
         "anchorId": "",
         "style": {
-          "enabled": false,
-          "panelOpen": false,
+          "enabled": true,
+          "panelOpen": true,
           "backgroundMode": "inherit",
           "backgroundColor": "#ffffff",
           "backgroundColor2": "#101318",
@@ -790,9 +829,9 @@
           "bodyEffect": "inherit",
           "bodyEffectColor": "#000000",
           "bodyEffectStrength": 36,
-          "paddingMode": "inherit",
-          "paddingTop": 96,
-          "paddingBottom": 96
+          "paddingMode": "custom",
+          "paddingTop": 0,
+          "paddingBottom": 0
         },
         "elementMotion": {
           "baseDelayMs": 150,
@@ -822,6 +861,85 @@
               "intensity": "soft"
             }
           }
+        },
+        "motion": {
+          "duration": 200,
+          "delay": 0,
+          "distance": 46,
+          "blur": 5,
+          "scale": 1.025,
+          "threshold": 0.2,
+          "easing": "cubic-bezier(.22,1,.36,1)",
+          "direction": "bottom",
+          "originX": 50,
+          "originY": 50,
+          "replay": false
+        }
+      }
+    },
+    {
+      "id": "button-single-1792804632964-1ipn5",
+      "type": "button-single",
+      "props": {
+        "label": "Quero saber mais",
+        "href": "#contato",
+        "ariaLabel": "Quero saber mais",
+        "icon": "fa-solid fa-arrow-right",
+        "iconPosition": "end",
+        "openNewTab": false,
+        "alignment": "center",
+        "widthMode": "auto",
+        "size": "large",
+        "paddingY": 0
+      },
+      "settings": {
+        "visible": true,
+        "hideMobile": false,
+        "hideDesktop": false,
+        "transition": "default",
+        "cssClass": "",
+        "anchorId": "",
+        "style": {
+          "enabled": true,
+          "panelOpen": true,
+          "backgroundMode": "inherit",
+          "backgroundColor": "#ffffff",
+          "backgroundColor2": "#101318",
+          "gradientAngle": 135,
+          "primaryMode": "inherit",
+          "primaryColor": "#d7ff3f",
+          "accentMode": "inherit",
+          "accentColor": "#7ca1ff",
+          "actionBackgroundMode": "auto",
+          "actionBackgroundColor": "#d7ff3f",
+          "actionTextMode": "auto",
+          "actionTextColor": "#101318",
+          "headingColorMode": "auto",
+          "headingColor": "#101318",
+          "bodyColorMode": "auto",
+          "bodyColor": "#30383d",
+          "eyebrowColorMode": "auto",
+          "eyebrowColor": "#d7ff3f",
+          "headingFont": "inherit",
+          "bodyFont": "inherit",
+          "headingWeight": "inherit",
+          "headingTracking": "inherit",
+          "headingAlign": "inherit",
+          "headingAlignMobile": "inherit",
+          "bodySize": "inherit",
+          "bodyLineHeight": "inherit",
+          "bodyAlign": "inherit",
+          "bodyAlignMobile": "inherit",
+          "bodyLineFit": "inherit",
+          "titleEffect": "inherit",
+          "titleEffectColor": "#000000",
+          "titleEffectStrength": 62,
+          "bodyEffect": "inherit",
+          "bodyEffectColor": "#000000",
+          "bodyEffectStrength": 36,
+          "paddingMode": "custom",
+          "paddingTop": 12,
+          "paddingBottom": 20
         }
       }
     },
@@ -901,6 +1019,19 @@
           "paddingMode": "inherit",
           "paddingTop": 96,
           "paddingBottom": 96
+        },
+        "motion": {
+          "duration": 200,
+          "delay": 0,
+          "distance": 46,
+          "blur": 5,
+          "scale": 1.025,
+          "threshold": 0.2,
+          "easing": "cubic-bezier(.22,1,.36,1)",
+          "direction": "bottom",
+          "originX": 50,
+          "originY": 50,
+          "replay": false
         }
       }
     },
@@ -1004,8 +1135,8 @@
         "cssClass": "",
         "anchorId": "localizacao",
         "style": {
-          "enabled": false,
-          "panelOpen": false,
+          "enabled": true,
+          "panelOpen": true,
           "backgroundMode": "inherit",
           "backgroundColor": "#ffffff",
           "backgroundColor2": "#101318",
@@ -1041,9 +1172,9 @@
           "bodyEffect": "inherit",
           "bodyEffectColor": "#000000",
           "bodyEffectStrength": 36,
-          "paddingMode": "inherit",
-          "paddingTop": 96,
-          "paddingBottom": 96
+          "paddingMode": "custom",
+          "paddingTop": 32,
+          "paddingBottom": 44
         },
         "elementMotion": {
           "baseDelayMs": 150,
@@ -1084,20 +1215,19 @@
       }
     },
     {
-      "id": "payment-linq-008",
-      "type": "payment",
+      "id": "button-single-1792804996997-ak9lh",
+      "type": "button-single",
       "props": {
-        "eyebrow": "CONHEÇA AS CONDIÇÕES",
-        "title": "Quanto custa conquistar meu LinQ Your Place ?",
-        "price": "R$ 2.000/Mês",
-        "priceLabel": "Faixa de valores",
-        "downPaymentLabel": "Entrada ",
-        "downPayment": "R$ 1.500",
-        "installmentsLabel": "Financiamento",
-        "installments": "Minha Casa Minha Vida",
-        "note": "*Faixa de preço de R$ 290 mil a R$ 350 mil conforme disponibilidade, sujeita à tabela e ao estoque. Prestação e entrada dependem de renda familiar, unidade, prazo, juros, seguros, condições bancárias e benefícios eventualmente aplicáveis. ",
-        "cta": "Quero meu benefício!",
-        "anchor": "#contato"
+        "label": "Quero saber mais",
+        "href": "#contato",
+        "ariaLabel": "Quero saber mais",
+        "icon": "fa-solid fa-arrow-right",
+        "iconPosition": "end",
+        "openNewTab": false,
+        "alignment": "center",
+        "widthMode": "auto",
+        "size": "medium",
+        "paddingY": 20
       },
       "settings": {
         "visible": true,
@@ -1105,16 +1235,16 @@
         "hideDesktop": false,
         "transition": "default",
         "cssClass": "",
-        "anchorId": "condicoes",
+        "anchorId": "",
         "style": {
           "enabled": true,
-          "panelOpen": false,
+          "panelOpen": true,
           "backgroundMode": "inherit",
           "backgroundColor": "#ffffff",
           "backgroundColor2": "#101318",
           "gradientAngle": 135,
-          "primaryMode": "custom",
-          "primaryColor": "#eee5dc",
+          "primaryMode": "inherit",
+          "primaryColor": "#d7ff3f",
           "accentMode": "inherit",
           "accentColor": "#7ca1ff",
           "actionBackgroundMode": "auto",
@@ -1144,12 +1274,79 @@
           "bodyEffect": "inherit",
           "bodyEffectColor": "#000000",
           "bodyEffectStrength": 36,
+          "paddingMode": "custom",
+          "paddingTop": 40,
+          "paddingBottom": 40
+        }
+      }
+    },
+    {
+      "id": "payment-linq-008",
+      "type": "payment",
+      "props": {
+        "eyebrow": "CONHEÇA AS CONDIÇÕES",
+        "title": "Quanto custa conquistar meu LinQ Your Place ?",
+        "price": "R$ 2.000/Mês",
+        "priceLabel": "Faixa de valores",
+        "downPaymentLabel": "Entrada ",
+        "downPayment": "R$ 1.500",
+        "installmentsLabel": "Financiamento",
+        "installments": "Minha Casa Minha Vida",
+        "note": "*Faixa de preço de R$ 290 mil a R$ 350 mil conforme disponibilidade, sujeita à tabela e ao estoque. Prestação e entrada dependem de renda familiar, unidade, prazo, juros, seguros, condições bancárias e benefícios eventualmente aplicáveis. ",
+        "cta": "Quero meu benefício!",
+        "anchor": "#contato"
+      },
+      "settings": {
+        "visible": true,
+        "hideMobile": false,
+        "hideDesktop": false,
+        "transition": "default",
+        "cssClass": "",
+        "anchorId": "condicoes",
+        "style": {
+          "enabled": true,
+          "panelOpen": true,
+          "backgroundMode": "inherit",
+          "backgroundColor": "#ffffff",
+          "backgroundColor2": "#101318",
+          "gradientAngle": 135,
+          "primaryMode": "custom",
+          "primaryColor": "#eee5dc",
+          "accentMode": "inherit",
+          "accentColor": "#7ca1ff",
+          "actionBackgroundMode": "custom",
+          "actionBackgroundColor": "#092d53",
+          "actionTextMode": "custom",
+          "actionTextColor": "#ffffff",
+          "headingColorMode": "auto",
+          "headingColor": "#101318",
+          "bodyColorMode": "auto",
+          "bodyColor": "#30383d",
+          "eyebrowColorMode": "auto",
+          "eyebrowColor": "#d7ff3f",
+          "headingFont": "inherit",
+          "bodyFont": "inherit",
+          "headingWeight": "inherit",
+          "headingTracking": "inherit",
+          "headingAlign": "inherit",
+          "headingAlignMobile": "inherit",
+          "bodySize": "inherit",
+          "bodyLineHeight": "inherit",
+          "bodyAlign": "inherit",
+          "bodyAlignMobile": "inherit",
+          "bodyLineFit": "inherit",
+          "titleEffect": "inherit",
+          "titleEffectColor": "#000000",
+          "titleEffectStrength": 62,
+          "bodyEffect": "inherit",
+          "bodyEffectColor": "#000000",
+          "bodyEffectStrength": 36,
           "paddingMode": "inherit",
           "paddingTop": 96,
           "paddingBottom": 96
         },
         "motion": {
-          "duration": 800,
+          "duration": 200,
           "delay": 0,
           "distance": 46,
           "blur": 5,
@@ -1215,8 +1412,8 @@
         "cssClass": "",
         "anchorId": "duvidas",
         "style": {
-          "enabled": false,
-          "panelOpen": false,
+          "enabled": true,
+          "panelOpen": true,
           "backgroundMode": "inherit",
           "backgroundColor": "#ffffff",
           "backgroundColor2": "#101318",
@@ -1252,9 +1449,22 @@
           "bodyEffect": "inherit",
           "bodyEffectColor": "#000000",
           "bodyEffectStrength": 36,
-          "paddingMode": "inherit",
-          "paddingTop": 96,
-          "paddingBottom": 96
+          "paddingMode": "custom",
+          "paddingTop": 48,
+          "paddingBottom": 40
+        },
+        "motion": {
+          "duration": 200,
+          "delay": 0,
+          "distance": 46,
+          "blur": 5,
+          "scale": 1.025,
+          "threshold": 0.2,
+          "easing": "cubic-bezier(.22,1,.36,1)",
+          "direction": "bottom",
+          "originX": 50,
+          "originY": 50,
+          "replay": false
         }
       }
     },
@@ -1265,7 +1475,7 @@
         "title": "Agendar visita",
         "copy": "Selecione a data e o turno e aguarde a confirmação de nossa equipe.",
         "product": "Nome do empreendimento",
-        "endpoint": "https://script.google.com/macros/s/AKfycbzszUr6ZdX4UPgZPe_HQPQ-gHpkVrV02ic1NYttpFlhcuXdMy0-HnzZyVQDAfmXxsnv/exec",
+        "endpoint": "https://script.google.com/macros/s/AKfycbxxA_8OOrK8oSJk6dFSC4bSvIHxICKLYG6ZpalORyFnM5fe-I4eLil-KGsKyoD31NMWlg/exec",
         "leadDays": 1,
         "horizonDays": 60,
         "visibleDays": 6,
@@ -1319,7 +1529,7 @@
         "anchorId": "contato",
         "style": {
           "enabled": true,
-          "panelOpen": false,
+          "panelOpen": true,
           "backgroundMode": "inherit",
           "backgroundColor": "#ffffff",
           "backgroundColor2": "#101318",
@@ -1328,8 +1538,8 @@
           "primaryColor": "#d7ff3f",
           "accentMode": "inherit",
           "accentColor": "#7ca1ff",
-          "actionBackgroundMode": "auto",
-          "actionBackgroundColor": "#d7ff3f",
+          "actionBackgroundMode": "inherit",
+          "actionBackgroundColor": "#ffa200",
           "actionTextMode": "auto",
           "actionTextColor": "#101318",
           "headingColorMode": "auto",
@@ -1429,6 +1639,19 @@
               "intensity": "soft"
             }
           }
+        },
+        "motion": {
+          "duration": 200,
+          "delay": 0,
+          "distance": 70,
+          "blur": 5,
+          "scale": 1.025,
+          "threshold": 0.2,
+          "easing": "cubic-bezier(.22,1,.36,1)",
+          "direction": "bottom",
+          "originX": 50,
+          "originY": 50,
+          "replay": false
         }
       }
     },
@@ -1702,7 +1925,7 @@
     }
   ],
   "selectedSectionId": "hero360-tour-1792586326792-cbk90",
-  "updatedAt": "2026-10-23T15:31:13.598Z",
+  "updatedAt": "2026-10-24T01:52:46.141Z",
   "templateMeta": {
     "presetId": "mcmv-imovel-na-planta",
     "category": "Financiamento",
